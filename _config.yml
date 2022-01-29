@@ -1,11 +1,21 @@
-title: Matheus da Silva # your name (or website title) here
-logo: "/images/MVIMG_20220129_142200-01-modified.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: <p align = "center"> Matheus da Silva </p> 
+
+
+logo: "/images/MVIMG_20220129_142200-01-modified.png?raw=true"
+
+description: 
+  <p> align = "center">
+  <a href = "pdf/curriculo.pdf">Resumo</a> | 
+  <a href = "https://www.linkedin.com/in/matheus-oliveira-064242129/">LinkedIn</a> |
+  <a href = "https://github.com/math-prog">GitHub</a> 
+  </p>
+  
+  <p align = "justify">
+  Sou graduado em Engenheria Mecânica pela Universidade Evangélica de Goiás e certificado como Cientista de Dados pela Data Science Academy.
   <br><br>
-  Second description 
+  Atualmente construo modelos preditivo com intuito de trazer resultados financeiros relevantes para empresa, melhorando a experiência e permanência dos usuários, tudo isso através dos dados.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  </p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
