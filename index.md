@@ -12,3 +12,5 @@
 <center><img src="images/project-churn-top_bank/churn-rate-prediction.v2.png"/></center>
 <br>
 
+---
+<center>© 2022 Matheus Silva. Powered by Jekyll and the Minimal Theme.</center>
