@@ -11,10 +11,4 @@
 <br>
 <center><img src="images/project-churn-top_bank/churn-rate-prediction.v2.png"/></center>
 <br>
----
-
-
-
-
----
 
